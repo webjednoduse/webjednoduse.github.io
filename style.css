@@ -1,0 +1,37 @@
+body  {
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+ }
+
+ .kontakt {
+    src: url(sansation_bold.woff);
+    font-weight: bold;
+ }
+
+ .kontakt img {max-width: 60;}
+
+
+
+ .banner {text-align: center;}
+
+ #ABC {
+    background-color: rgb(118, 20, 147);
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+
+
+  .banner {color: white;}
+
+  .kontakt {float:right;}
+
+  .banner {font-size: +25;}
+
+  .faq {font-size:+20}
+
+  .faq {text-align: center;}
+
+  .instagram {text-align: center;}
