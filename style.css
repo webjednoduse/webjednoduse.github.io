@@ -37,4 +37,8 @@ body  {
   .instagram {text-align: center;}
 
   .faq textarea{width:80%;
-               padding:7px;      }  
+               padding:7px;}  
+
+  .instagram {font-size: +20;}           
+  
+  .instagram-media {float: left;}
